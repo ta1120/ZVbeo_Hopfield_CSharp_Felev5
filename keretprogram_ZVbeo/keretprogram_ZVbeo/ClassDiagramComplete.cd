@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="keretprogram_ZVbeo.Course" Collapsed="true">
+    <Position X="11.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAgAAACAAQAABAQAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Course.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="keretprogram_ZVbeo.CSVReader" Collapsed="true">
+    <Position X="11.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CSVReader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="keretprogram_ZVbeo.Exam" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="21.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABQAAAAAQEAJAAAABgAAgIAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Exam.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="keretprogram_ZVbeo.InputModel" Collapsed="true">
+    <Position X="10.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAIIAAACCAAAKAZggQBARAQQAQMAIgQABDAAA=</HashCode>
+      <FileName>InputModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="keretprogram_ZVbeo.Instructor" Collapsed="true">
+    <Position X="11.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAxAAgBAAAAAAAABAAgAQAIQAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Instructor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="keretprogram_ZVbeo.Neuron" Collapsed="true">
+    <Position X="15" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Neuron.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="keretprogram_ZVbeo.NeuronModel" Collapsed="true">
+    <Position X="15" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAIAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NeuronModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="keretprogram_ZVbeo.Neuron_TSH" Collapsed="true">
+    <Position X="15" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAACAAAAAAAAAAAAAAAAQAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NeuronModel_TSH.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="keretprogram_ZVbeo.NeuronModel_TSH" Collapsed="true">
+    <Position X="14.75" Y="6.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NeuronModel_TSH.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="keretprogram_ZVbeo.OutputModel" Collapsed="true">
+    <Position X="21.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAAAAAAACIAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>OutputModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="keretprogram_ZVbeo.Person" Collapsed="true">
+    <Position X="10.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAgAAAAAAABAQAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="keretprogram_ZVbeo.Program" Collapsed="true">
+    <Position X="24.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="keretprogram_ZVbeo.Room" Collapsed="true">
+    <Position X="11.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAgAAAAAAABAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Room.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="keretprogram_ZVbeo.RuleSet" Collapsed="true">
+    <Position X="18.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQIAAEAAAEAAAIABEAAAEAAAACAAABAAAAAIiAA=</HashCode>
+      <FileName>RuleSet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="keretprogram_ZVbeo.Student" Collapsed="true">
+    <Position X="9.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIQwAAAgAAAAAAAAABAAAAAAAAQBAAAAAAAAAAAA=</HashCode>
+      <FileName>Student.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="keretprogram_ZVbeo.TimeSlot" Collapsed="true">
+    <Position X="9.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>TimeSlot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="keretprogram_ZVbeo.TimeSlotFiveMin" Collapsed="true">
+    <Position X="9.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAEAAAABAAAAAQAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>TimeSlotFiveMin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="keretprogram_ZVbeo.TimeSlotHour" Collapsed="true">
+    <Position X="9.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAgAAAAAAAAABAAAgAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>TimeSlotHour.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="keretprogram_ZVbeo.XlsxReader" Collapsed="true">
+    <Position X="9.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>XlsxReader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="keretprogram_ZVbeo.SchedulePresidents">
+    <Position X="18.25" Y="4.75" Width="2" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="keretprogram_ZVbeo.SchedulePresidents.FillSlotsNoCollision" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ZVbeoRuleSet.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+      <Class Name="keretprogram_ZVbeo.SchedulePresidents.CheckAvailability" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ZVbeoRuleSet.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ZVbeoRuleSet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="keretprogram_ZVbeo.Rule" Collapsed="true">
+    <Position X="18.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>RuleSet.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
